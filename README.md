@@ -7,4 +7,4 @@ Grupo L
 Integrantes:
 Emiliano Luca Ledesma Rodriguez,
 Tobias Leonel Varela,
-Emanuel Ezequiel Ledesma Rodriguez,
+Emanuel Ezequiel Ledesma Rodriguez.
